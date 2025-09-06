@@ -20,7 +20,7 @@ Para testar o projeto, siga os passos abaixo:
 
 3.  **Execute o programa:**
     ```bash
-    ./cp1_2
+    ./cpMedindoPerformance
     ```
 
 Os resultados detalhados serão exibidos diretamente no seu terminal.
